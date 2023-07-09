@@ -6,4 +6,3 @@ def solution(array, n):
     sortedList = sorted(newArray)
     indexNum = newArray.index(sortedList[0])
     return array[indexNum]
-    
